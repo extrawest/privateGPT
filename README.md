@@ -27,6 +27,14 @@ Install a Python package
 pip3 install -r requirements.txt
 ```
 
+Run Streamlit app
+```shell
+streamlit run streamlit_app/main.py 
+```
+Then go to local URL: http://localhost:8501
+
+
+
 To deactivate the virtual environment
 ```
 deactivate
