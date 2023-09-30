@@ -1,6 +1,6 @@
-langchain==0.0.274
-gpt4all==1.0.8
-chromadb==0.4.7
+langchain==0.1.*
+gpt4all==2.1.*
+chromadb==0.4.*
 llama-cpp-python==0.1.81
 urllib3==2.0.4
 PyMuPDF==1.23.1
@@ -12,3 +12,4 @@ pandoc==2.3
 pypandoc==1.11
 tqdm==4.66.1
 sentence_transformers==2.2.2
+streamlit==1.27.*
